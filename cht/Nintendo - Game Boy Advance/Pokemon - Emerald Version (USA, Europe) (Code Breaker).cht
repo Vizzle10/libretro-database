@@ -295,3 +295,7 @@ cheat72_enable = false
 cheat73_desc = "Receive Symbol"
 cheat73_code = "D0000020+0004+83000E48+C330+D0000020+0004+83000E4A+0824+73000E48+C861+83000E48+99F1"
 cheat73_enable = false
+
+cheat74_desc = "Rare Candies"
+cheat74_code = "BFF956FA 2F9EC50D"
+cheat74_enable = false
